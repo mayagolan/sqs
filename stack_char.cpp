@@ -1,8 +1,6 @@
 /*
     First name     MAYA
     Last name      GOLAN
-    Student ID     01529163
-    Username       mg2118
 */
 
 #include <iostream>
